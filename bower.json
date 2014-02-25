@@ -1,0 +1,12 @@
+{
+  "name": "bddlib",
+  "version": "0.9.0",
+  "main": "bddlib/bddlib.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "casperjs": "~1.2.8"
+  }    
+}
