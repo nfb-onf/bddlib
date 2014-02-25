@@ -7,6 +7,6 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "casperjs": "~1.2.8"
+    "casperjs": "1.2.8"
   }    
 }
